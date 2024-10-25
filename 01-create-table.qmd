@@ -93,7 +93,7 @@ GT(
 
 ### `save()`: Save a GT table as a file
 
-```r
+```python
 save(
   data,
   filename,
